@@ -1,0 +1,474 @@
+
+
+
+#contenidos{
+	width: 960px;
+	height: auto; 
+	margin: auto; 
+	position: relative;
+		}
+		
+   #sebaslogo{
+   	width: 800px;
+   	height: 200px;
+   	border-radius: 20px;
+   	margin-left: 100px;
+   	margin-top: px;
+   	padding: 20px;
+
+
+
+   }
+
+
+   .logo{
+		
+	width: 250px;
+	height: auto;
+	float:none; 
+	list-style-type:circle ;
+	padding: none;
+	background: none;
+	margin: ;
+	border-radius: 30px;
+	line-height: none;
+	margin-right: none  ;
+	background-repeat:no-repeat; 
+	position: none;
+	margin-top: 5px;}
+
+	
+
+
+body {
+	background-image: url(../imagen/derechos.jpg);
+	background-repeat: center;
+	background-position: center;
+	background-size:cover;
+
+
+	
+}
+h1{
+	
+	font-family: 'Lobster', cursive;
+	margin-left: 70px;
+	font-size: 30px;
+	text-align: center;
+	color:white;
+
+}
+header{
+	
+	width: 1000px;
+	height:70px;
+	background: rgba(255,255,255,10,5); 
+	
+	text-align: center 100px;
+	background-position: right;
+
+}
+
+
+
+
+ul{
+	
+	margin:auto;
+	padding-top: 4px;
+	color:white;
+	background-position: center;
+	text-align:left 30px;
+}
+#menu{
+	
+	 width: 800px;
+    margin-left: 200px;
+    height: auto; 
+	float:left;
+	padding-top: 42px;
+	padding-bottom: 42px;
+	margin-top: -150px;
+}
+
+
+nav{
+    background-image:;
+    width: 800px;
+    margin-left: 200px;
+    height: auto; 
+	float:left;
+	padding-top: 42px;
+	padding-bottom: 42px;
+	margin-top: ;
+
+	
+}
+
+
+	
+
+li{
+
+	font-family: 'Shadows Into Light', cursive;
+	float:left; 
+	list-style-type:none ;
+	padding: 10px;
+	background: green;
+	margin: 3px;
+	border-radius: 30px;
+	line-height: 30px;
+	margin-right: none  ;
+	background-repeat:no-repeat; 
+	margin-top: ;
+	position: center;
+
+
+
+
+
+}
+
+#imagenes{
+
+    width: 200px;
+    height: 150px; 
+	float:left;
+	border-radius: 100px;
+	margin-top: 20px;
+
+}
+
+
+
+
+section{
+	
+	margin-right: 20px;
+	width: 660px;
+	background: ;
+	height: 400px;
+	float: left;
+	border-radius: 10px;
+	margin-top: 30px;
+}
+aside{
+    width:20;
+    font-family: 'Indie Flower', cursive;
+	width: 100px;
+	height: 200px;
+	float: left;
+    margin-right: ;
+	margin-top: -20px;
+	text-align: justify;
+	 }
+	
+
+	
+
+
+article{
+font-family: 'Yanone Kaffeesatz', sans-serif;
+margin-right: 30px;
+text-align: right 20px;
+line-height: 15px;
+padding: 11px;
+text-align: justify;
+}
+
+}
+img{
+	
+	margin-right: 20px;
+	height:  90px;
+	border-radius: 30px;
+    float: center;
+    position: left 30px;
+    width: 490px;
+    background-image:no-repeat; 
+    max-width: 100%;
+    
+
+    }
+
+
+
+#carreras{
+	width: 200px;
+    height: 220px; 
+	float:left; 
+	border-radius: 600px;
+	background-repeat: no-repeat;
+	margin-left: 20px;
+
+
+}
+
+
+
+
+
+
+footer{
+    font-family: 'Indie Flower', cursive;
+	width: 1000px;
+	height: 100px;
+	background: green;
+	float: left;
+	margin-top: 150px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+	text-align: justify;
+}
+
+
+
+	
+
+
+
+
+
+h2{
+    padding: 1px;
+	
+	left: 50px;
+	float: center ;
+
+}
+
+p{
+	margin: 20px;
+	float: center;
+	text-align: center;
+	line-height: 20px;
+}
+
+#Quienessomos{
+	
+	width: 1000px;
+	height: auto; 
+	margin: auto;
+	position: left;
+
+
+}
+
+	
+
+#section1{
+	
+	width: 400px;
+	height: auto;
+	text-align: right 200px;
+	margin:100px;
+}
+#objetivos{
+	width: 400;
+	height: auto;
+	text-align: left 200px; 
+	line-height: left 600px;
+	float: left 600px;
+	}
+
+#Miti{
+	width: 200px;
+    height: 100px; 
+	float:left; 
+	border-radius: 200px;
+	background-repeat: no-repeat;
+}
+
+
+
+
+#article1{
+font-family: 'Lora', serif;
+margin-right: 10px;
+text-align: right 20px;
+line-height: 15px;
+padding: 9px;
+text-align: justify;
+border-right: 20px;
+margin-top: -70px;
+
+}
+h2{
+	margin: 20px;
+	padding: 10px;
+	margin-top:-6px;
+}
+
+#Derecha {
+	width: 300px;
+	height: 750px;
+	text-align: left ;
+	margin:50px;
+	margin-top: 6px;
+	background-color: green ;
+	background-repeat: no-repeat;
+	border-spacing: 20px;
+
+	
+}
+
+#sabias{
+	width: 200px;
+	height: 150px;
+	
+	
+
+}
+
+
+
+
+
+
+
+
+#final{
+	float:center;
+	text-align: left;
+
+
+}
+#adopcion{
+	width: 1000px;
+	height: 1000px; 
+	margin: auto;
+
+}
+
+#adop{
+font-family: 'Indie Flower', cursive;
+text-align: center;
+
+
+
+
+
+}
+#pie{
+	font-family: 'Indie Flower', cursive;
+	width: 1000px;
+	height: 100px;
+	background: green;
+	float: left;
+	margin-top: 700px;
+	border-radius: 10px;
+	margin-bottom: 20px;
+	text-align: justify;
+}
+
+#parrafo{
+font-family: 'Shadows Into Light', cursive;
+width: 600px;
+height: 300px;
+margin-top: 4px;
+text-align: justify;
+margin: 40px;
+
+
+	
+}
+video{
+	width: 400px;
+	height: 400px;
+	margin: 69px;
+	margin-top: -50px;
+}
+#perros{
+	font-family: 'Merriweather', serif;
+	text-align: justify;
+	background-color: ;
+	float: 90px;
+    width:200px;
+	height: 1000px;
+	background-color: green;
+	background-repeat: no-repeat;
+}
+#adopta{
+	width: 100px;
+}
+
+
+
+#Donaciones{
+	font-family: 'Cuprum', sans-serif;
+	width: 400px;
+	height: auto;
+	margin: 69px;
+	margin-top: 10px;
+}
+#Experimenta{
+	font-family: 'Merriweather', serif;
+	width: 300px;
+	height: 650px;
+	text-align: left ;
+	margin:100px;
+	margin-top: 6px;
+	background-color: ;
+	border-spacing: 20px;
+	background-color: green;
+	background-repeat: no-repeat;
+
+}
+#sabiasque{
+	width: 200px;
+	height: 200px;
+}
+
+#contactenos{
+	width: 500px;
+	height: auto;
+	margin: 69px;
+	margin-top: 10px;
+	text-align: justify;
+
+}
+#explora{
+	width: 300px;
+	height: auto;
+	margin-left: 10px;
+	background-color: green;
+	background-repeat: no-repeat;
+
+}
+#contacperros{
+	width: 400px;
+	height: 300px;
+	margin-top: 20px;
+}
+#izquierda {
+	width: 150px;
+	height: 100px;
+	margin: 30px;
+	margin-left: 30px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+.ancho_menu_home{width: 900px;}
+.ancho_menu_paginas{width: 100px;}
+.menu:link{color:white; text-decoration: none;}
+.menu:visited{color:white; text-decoration: none;}
+.menu:hover{color:white; text-decoration: none;}
+.menu:active{color:white; text-decoration: none;}
+
+
+
